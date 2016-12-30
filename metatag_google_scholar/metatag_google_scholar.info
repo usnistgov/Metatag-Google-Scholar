@@ -1,0 +1,6 @@
+name = Metatag: Google Scholar
+description = Provides Google Scholar metatags as documented at https://scholar.google.com/intl/en/scholar/inclusion.html#indexing.
+package = SEO
+core = 7.x
+version = 7.x-1.x
+dependencies[] = metatag
